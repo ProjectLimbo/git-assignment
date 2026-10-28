@@ -4,3 +4,4 @@ update
 develop setup 
 signup start 
 signup finish 
+release v1 
